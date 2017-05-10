@@ -15,9 +15,9 @@ This project sets up for JavaScript testing frameworks running on [Node.js](http
 | install.txt  | Installation instruction |
 | gruntfile.js   | grunt file for run mocha testing |
 | gulpfile.js    | gulp  file for run mocha testing |
-| karma_testing  | Karma test runner) |
-| mocha_testing  | Mocha framework, using Chai as assertion library and Simon as mocking library |
-| protractor | Protractor for end to end testing |
-| spec | Jasmine framework |
-| src | source code to be tested |
+| -karma_testing  | Karma test runner |
+| -mocha_testing  | Mocha framework, using Chai as assertion library and Simon as mocking library |
+| -protractor | Protractor for end to end testing |
+| -spec | Jasmine framework |
+| -src | source code to be tested |
 
