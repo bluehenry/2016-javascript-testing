@@ -1,0 +1,61 @@
+# install express, request
+npm install --save express
+npm install --save request
+
+# install mocha
+npm install -g mocha
+npm install --save-dev mocha
+
+# install Chai
+npm install --save-dev chai
+
+# install Sinon
+npm install --save-dev sinon
+
+# install gulp
+npm install -g gulp
+npm install --save gulp gulp-mocha gulp-util
+
+# install grunt
+npm install -g grunt-cli 
+npm install --save grunt grunt-mocha-test grunt-contrib-watch
+
+# install Jasmine
+npm install -g jasmine
+npm install --save-dev jasmine -core
+
+# initializeing Jasmine
+jasmine init
+
+# install karma:
+npm install -g karma
+npm install -g karma-cli
+npm install --save-dev karma 
+npm install --save-dev karma-jasmine karma-chrome-launcher karma-ie-launcher 
+npm install --save-dev karma-browserify browserify watchify 
+
+
+# initialise karma config file
+karma init
+
+# Run Karma:
+./node_modules/karma/bin/karma start
+
+##### set up protractor ####
+# install java
+
+# install protractor
+npm install -g protractor
+
+# update WebDriver-manager
+webdriver-manager update
+webdriver-manager update --ie
+
+# download web driver and put them into
+C:\Users\jijuh9\AppData\Roaming\npm\node_modules\protractor\node_modules\webdriver-manager\selenium
+
+
+
+#
+set CHROME_BIN=C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+set IE_BIN=C:\Program Files\Internet Explorer\iexplore.exe

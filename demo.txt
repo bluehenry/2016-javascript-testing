@@ -1,0 +1,24 @@
+#1. run mocha test
+mocha mocha_testing
+mocha "mocha_testing/addTesting.js"
+
+#2. run jasmine
+jasmine
+
+#3. run gulp
+gulp
+
+#change addTesting.js
+
+#4. run grunt
+grunt
+#change addTesting.js
+
+#5. run karma
+karma start
+
+#6. run protractor
+#start WebDriver
+webdriver-manager start
+
+protractor conf.js
