@@ -3,9 +3,9 @@
 This project sets up for JavaScript testing frameworks running on [Node.js](https://nodejs.org/en/).
 
  - [Mocha](https://mochajs.org/) a unit test framework.
- - [Jasmine](https://jasmine.github.io/) another behaviour-driven development framework.
+ - [Jasmine](https://jasmine.github.io/) a behaviour-driven development framework.
  - [Karma](https://www.npmjs.com/package/karma) allows you to execute JavaScript code in multiple real browsers.
- - [Protractor] (http://www.protractortest.org/#/) an E2E test framework for Angular. 
+ - [Protractor](http://www.protractortest.org/#/) an E2E test framework for Angular. 
  
 # Source code structure  
 
