@@ -9,9 +9,10 @@ This project sets up for JavaScript testing frameworks.
 
 # Installation
 ## install express, request
-<p>npm install --save express
+```
+npm install --save express
 npm install --save request
-</p>
+```
 
 ## install mocha
 npm install -g mocha
